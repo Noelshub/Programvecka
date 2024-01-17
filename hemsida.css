@@ -32,9 +32,11 @@ a {
 .logo {
   display: flex;
   vertical-align: top;
-  width: 5rem;
-  height: 5rem;
-  padding: 2rem 2rem 2rem;
+  width: 4rem;
+  height: 4rem;
+  justify-self: center;
+  align-self: center;
+  padding: 1rem 1rem 1rem 1rem;
 }
 .div1 {
   display: flex;
@@ -78,12 +80,13 @@ h1 {
   font-family: "adelle", serif;
   font-weight: 800;
   font-style: normal;
-  font-size: 2rem;
+  font-size: 3rem;
   text-align: center;
+  padding-bottom: 2rem;
 }
 
 article p {
-  font-size: 0.95vw;
+  font-size: 1rem;
   font-family: "Roboto", sans-serif;
   text-align: left;
 }

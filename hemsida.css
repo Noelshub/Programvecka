@@ -10,21 +10,21 @@ nav {
   justify-content: center;
   align-items: center;
   background-color: #ee9b69;
-
+  height: 4 rem;
 }
 
 a {
   text-decoration: none;
   color: rgb(0, 0, 0);
   display: flex;
-  padding: 1vh 2vw;
-  font-size: 2rem;
+  padding: 1rem 2rem;
+  font-size: 1.5rem;
   text-align: center;
   border-style: solid;
   border-left: 0;
   border-right: 0;
   border-top: 0;
-  border-width: 0.6rem;
+  border-width: 0.4rem;
   border-color: #383431;
   justify-content: center;
   font-family: "Roboto", sans-serif;
@@ -32,9 +32,9 @@ a {
 .logo {
   display: flex;
   vertical-align: top;
-  width: 4rem;
-  height: 4rem;
-  justify-self: center;
+  width: 3.5rem;
+  height: 3.5rem;
+  justify-self: left;
   align-self: center;
   padding: 1rem 1rem 1rem 1rem;
 }
@@ -129,7 +129,7 @@ footer p {
   border-right: 0;
   border-top: 0;
   justify-content: center;
-  border-width: 0.6rem;
+  border-width: 0.4rem;
   grid-column: 2;
   font-size: 22px; 
   padding-bottom: 0.5rem;

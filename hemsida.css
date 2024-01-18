@@ -191,3 +191,12 @@ footer p {
 }
  
 
+.hemma{
+  width: 4rem;
+  background-color: #ee9b69;
+  height: 4rem;
+  align-self: right;
+}
+.an{
+  border-style: none;
+}

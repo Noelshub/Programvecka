@@ -200,3 +200,14 @@ footer p {
 .an{
   border-style: none;
 }
+.h11{
+  font-size: 5rem;
+  text-align: center;
+  align-self: center;
+  justify-self: center;
+}
+.article3{
+  display:grid;
+  grid-template-columns: 1fr;
+  grid-template-rows: 1fr 1fr;
+}

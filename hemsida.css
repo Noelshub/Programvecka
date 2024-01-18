@@ -199,6 +199,7 @@ footer p {
   text-align: center;
   align-self: center;
   justify-self: center;
+  color: #ead1b5;
 }
 .article3{
   display:grid;
@@ -207,6 +208,7 @@ footer p {
   background-image: url(startsida_bild1.png);
   padding-bottom: 0;
   background-color: none;
+  background-size: cover;
 }
 .startbild{
   width: 5rem;
@@ -218,7 +220,14 @@ footer p {
   align-self: center;
   justify-content: center;
   text-align: center;
+  color: #ead1b5;
 }
 .article4{
   margin-top: 0;
+}
+.p2{
+  font-size: 2rem;
+  align-self: center;
+  justify-content: center;
+  text-align: center;
 }

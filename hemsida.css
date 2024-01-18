@@ -63,11 +63,13 @@ article {
   justify-content: center;
 }
 
-.article1 {
+.article1{
   display: grid;
   grid-template-columns: 3fr 2fr;
   box-shadow: 1px 1px 30px 15px #383431;
   margin: 5rem 15% 0 15%;
+  margin-top: 4rem;
+  margin-bottom: 4rem;
   padding-right: 4rem;
   background-color: #ead1b5;
   align-items: center;

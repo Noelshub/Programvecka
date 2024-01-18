@@ -184,21 +184,15 @@ footer p {
   footer {
     grid-template-columns: 1fr;
   }
-  
   footer p {
     grid-column: 1;
   }
 }
  
-
-.hemma{
-  width: 4rem;
-  background-color: #ee9b69;
-  height: 4rem;
-  align-self: right;
-}
 .an{
   border-style: none;
+  align-self: left;
+  justify-content: left;
 }
 .h11{
   font-size: 5rem;
@@ -210,4 +204,21 @@ footer p {
   display:grid;
   grid-template-columns: 1fr;
   grid-template-rows: 1fr 1fr;
+  background-image: url(startsida_bild1.png);
+  padding-bottom: 0;
+  background-color: none;
+}
+.startbild{
+  width: 5rem;
+  height: 5rem;
+}
+
+.p1{
+  font-size: 2rem;
+  align-self: center;
+  justify-content: center;
+  text-align: center;
+}
+.article4{
+  margin-top: 0;
 }
